@@ -1,6 +1,7 @@
 # GeckoView I
 **GeckoView** is a viewer system for integrating three dimensional characters into websites for presentation purposes.
 The program utilizes Three.js for its 3D components.
+The system supports many customizable features to bring characters to life and create an engaging experience.
 
 Check out the [documentation](./documentation/index.md) on set up and usage of **GeckoView**.
 
