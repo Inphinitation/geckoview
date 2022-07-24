@@ -1,2 +1,3 @@
-const threeJs = require('https://esm.run/three.js');
-console.log("Hello World!");
+import * as threeJs from 'https://esm.run/three.js';
+const gekVersion = "1.0.0";
+console.log("GeckoView running v"+gekVersion);
